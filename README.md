@@ -72,7 +72,7 @@
 
 ```text
 🔭 Focus          Blockchain · Smart Contracts · Crypto Wallets
-⚡ Recently        Core contributor to Hydra — Cardano's layer-2 protocol
+⚡ Currently       Contributing at Botmaker
 💬 Ask me about   Scala, Haskell, Rust, distributed & event-driven systems
 🤖 Building with  Claude Code & Codex — AI-first engineering
 🥊 Off the clock  Boxing, asados & metal
