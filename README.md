@@ -71,7 +71,7 @@
 ## 🎯 Current Focus
 
 ```text
-🔭 Focus          Blockchain · Smart Contracts · Crypto Wallets
+🔭 Focus          Conversational AI · LLM Agents · Real-Time Messaging
 ⚡ Currently       Building at Botmaker
 💬 Ask me about   Scala, Haskell, Rust, distributed & event-driven systems
 🤖 Building with  Claude Code & Codex — AI-first engineering
