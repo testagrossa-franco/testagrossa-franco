@@ -72,7 +72,7 @@
 
 ```text
 🔭 Focus          Blockchain · Smart Contracts · Crypto Wallets
-⚡ Currently       Contributing at Botmaker
+⚡ Currently       Building at Botmaker
 💬 Ask me about   Scala, Haskell, Rust, distributed & event-driven systems
 🤖 Building with  Claude Code & Codex — AI-first engineering
 🥊 Off the clock  Boxing, asados & metal
