@@ -41,7 +41,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=testagrossa-franco&theme=tokyo-night&hide_border=true&area=true&days=365)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://activity-graph-brown.vercel.app/graph?username=testagrossa-franco&theme=tokyo-night&hide_border=true&area=true&days=365)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
